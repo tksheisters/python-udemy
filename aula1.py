@@ -1,0 +1,15 @@
+print()
+
+"""
+
+DocString
+
+"""
+
+'''
+
+DocString
+
+'''
+
+#comentário
